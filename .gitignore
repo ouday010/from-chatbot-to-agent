@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# files created by the program
+portfolio/
+portfolio_backup/
+last_answer.txt
